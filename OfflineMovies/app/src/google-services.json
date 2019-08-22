@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627191328914",
+    "firebase_url": "https://offline-movies.firebaseio.com",
+    "project_id": "offline-movies",
+    "storage_bucket": "offline-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627191328914:android:c473b51bdd8c0e84",
+        "android_client_info": {
+          "package_name": "com.appdeepo.offlinemovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627191328914-etgia5jic006p5d835uud0m7maq2dpq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appdeepo.offlinemovies",
+            "certificate_hash": "762ac596b4db07a5c6199838da309392a8380144"
+          }
+        },
+        {
+          "client_id": "627191328914-i602j7i9f44qpa9n80upqmlggrd5g6h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaV-A7rx0O42eKHSpcDJt2Eu2psdwS3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627191328914-i602j7i9f44qpa9n80upqmlggrd5g6h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
